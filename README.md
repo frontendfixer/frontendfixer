@@ -27,9 +27,9 @@ As a passionate React <img width=14 src='./assets/images/react.svg'> Frontend De
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://frontendfixer.github.io/">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=frontendfixer&include_all_commits=true&rank_icon=github&hide=stars&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://frontendfixer.github.io/">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontendfixer&size_weight=0.5&count_weight=0.5&exclude_repo=dots,Bibata_Cursor&hide=shell,perl,lua,qml&layout=compact&theme=dracula" />
 </a>

@@ -27,9 +27,10 @@ As a passionate React <img width=14 src='./assets/images/react.svg'> Frontend De
 
 ---
 
+[![wakatime](https://wakatime.com/badge/user/c6caa88f-b7d5-4df5-8cd9-0a9e6402e9bf.svg)](https://wakatime.com/@c6caa88f-b7d5-4df5-8cd9-0a9e6402e9bf)
 <a href="https://frontendfixer.github.io/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=frontendfixer&include_all_commits=true&rank_icon=github&hide=stars&show_icons=true&theme=dracula" />
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=frontendfixer&include_all_commits=true&rank_icon=github&hide=stars&show_icons=true&theme=dracula" />
 </a>
 <a href="https://frontendfixer.github.io/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frontendfixer&size_weight=0.5&count_weight=0.5&exclude_repo=dots,Bibata_Cursor&hide=shell,perl,lua,qml&layout=compact&theme=dracula" />
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=frontendfixer&layout=compact&theme=dracula" />
 </a>

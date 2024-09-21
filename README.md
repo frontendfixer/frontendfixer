@@ -1,6 +1,6 @@
 ## Hi! I'm Lakshmikanta Patra 👋 🌱
 
-As a passionate React <img width=14 src='./assets/images/react.svg'> Frontend Developer, I am dedicated to creating better ✨ user experiences through 🤓 efficient, 🦋 responsive and 🦎 dynamic web applications.
+As a passionate Javascript <img width=14 src='./assets/images/react.svg'> Full Stack Developer, I am dedicated to creating better ✨ user experiences through 🤓 efficient, 🦋 responsive, 🔒 secure and  🦎 dynamic web applications. My Primary tech stack is ✅ NodeJs and ✅ PHP but I am comfortable learning new technology 😎 and make web security😈 and expericen ✨ better for end user.
 
 - 📝 I can code with -
   <img width=18 src='./assets/images/react.svg'/>
